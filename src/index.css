@@ -1,0 +1,10 @@
+.card-h4 {
+  display: "flex";
+  text-overflow: "ellipsis";
+  color: "red";
+}
+.h3 .h3 {
+  display: "flex !important";
+  text-overflow: "ellipsis !important";
+  all: "unset";
+}
